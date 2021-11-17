@@ -1,0 +1,7 @@
+export const AUTH_LOGIN = "AUTH_LOGIN"
+export const AUTH_REGISTER = "AUTH_REGISTER"
+export const AUTH_RENEW = "AUTH_RENEW"
+export const AUTH_LOADING = "AUTH_LOADING"
+export const AUTH_ERRORS = "AUTH_ERRORS"
+export const AUTH_REMOVE_ERRORS = "AUTH_REMOVE_ERRORS"
+export const AUTH_LOGOUT = "AUTH_LOGOUT"
